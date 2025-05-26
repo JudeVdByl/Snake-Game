@@ -30,7 +30,6 @@ A lightweight remake of the classic Snake arcade game written in pure Python usi
 ![Gameplay GIF](https://github.com/user-attachments/assets/251ba1ac-f662-4913-9fc0-b91861cafdfb)
 
 
-<sub>Gif recorded at 60 fps with Python 3.12 on macOS.</sub>
 
 ---
 
